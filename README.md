@@ -1,2 +1,1 @@
-# hello-github
-i am student of integral university
+Hello, GitHub! This is my first edit.
